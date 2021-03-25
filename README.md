@@ -1,11 +1,15 @@
 # Brain Computer Interfaces for Industrial Fluid Flow Control
 
 ## Group Members
-**Amaani Zuberi
-Farhan Wadia
-Jun Sung Park
-Mrinal Jha  
-Stephanie DiNunzio**
+**Amaani Zuberi**
+
+**Farhan Wadia**
+
+**Jun Sung Park**
+
+**Mrinal Jha** 
+
+**Stephanie DiNunzio**
 
 ## Description
 This repository consists of all data and software developed for our capstone project.
