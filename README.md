@@ -24,4 +24,4 @@ Model training can be found in the `EEG_Classification_Model_Training.ipynb` not
 
 Relevant files for implementing the chosen model live in conjunction with a solenoid valve can be found in the `Final Prototype Implementation` folder. Refer to the `Using the Muse Headset for Collecting Raw EEG Signals.pdf` file for further instructions on how to set up the Muse for live EEG streaming, and also refer to `Implementation_README.md`
 
-The `Prototype and Final Design CAD Assemblies` folder contains SOLIDWORKS parts and assemblies showing the mechanical design of our system.
+The `Prototype and Final Design CAD Assemblies` folder contains SOLIDWORKS parts and assemblies showing the mechanical design of our system. The `Electrical Design` folder contains our final and previous versions of the electrical design, and includes the schematic, `.brd` files of the CAD in EAGLE, and `.step` file that can be imported into SOLIDWORKS.
