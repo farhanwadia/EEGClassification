@@ -23,3 +23,5 @@ Filtering, time series data outputs, FFT outputs, wavelet transforms, and corres
 Model training can be found in the `EEG_Classification_Model_Training.ipynb` notebook. Downloaded model weight files can be found in the `Trained Model Weights` folder. Testing for these models is conducted in the `EEG_Classification_Model_Testing.ipynb` notebook. A breakdown of the results for our final chosen model can be found in the `Final Model Test Results Summary.xlsx` spreadsheet.
 
 Relevant files for implementing the chosen model live in conjunction with a solenoid valve can be found in the `Final Prototype Implementation` folder. Refer to the `Using the Muse Headset for Collecting Raw EEG Signals.pdf` file for further instructions on how to set up the Muse for live EEG streaming, and also refer to `Implementation_README.md`
+
+The `Prototype and Final Design CAD Assemblies` folder contains SOLIDWORKS parts and assemblies showing the mechanical design of our system.
